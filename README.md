@@ -1,5 +1,7 @@
 # Minor Web Design & Development Kickoff 2021
 
+<br>
+
 ## Opdracht
 
 Maak een visitekaartje met HTML en CSS, op basis van een API met daarin je eigen data. De API is afkomstig van mockapi.io.
@@ -11,24 +13,35 @@ Ik heb onderstaande data van de API gebruikt om mijn visitekaartje te maken:
 - `mugshot`: link naar afbeelding van jezelf, output: `"https://afbeelding-linkje.nl/afbeelding.jpg"`
 - `other`: object met andere informatie, zoals sport, muziek en werkplek. Output: `{sport: "Fitness", muziek: "EDM", werkplek: "Thuis"}`
 
+<br>
+
 ## Proces
 
 Ik heb eerst een schets gemaakt van hoe mijn visitekaartje eruit moest gaan zien:
+
 ![schets van visitekaartje](https://user-images.githubusercontent.com/60745347/106472570-18981900-64a3-11eb-8864-7b07cb6f8617.JPG)
 
+<br>
+
 Vervolgens heb ik een breakdown schets gemaakt die laat zien hoe het visitekaartje technisch is opgebouwd:
-![breakdown schets van visitekaartje](https://user-images.githubusercontent.com/60745347/106472559-146bfb80-64a3-11eb-956d-0ef1faa14112.JPG)
+![breakdown schets van visitekaartje](https://user-images.githubusercontent.com/60745347/106475173-f18f1680-64a5-11eb-86fa-1d208553d49d.JPG)
+
+<br>
 
 ## Resultaat
 
 ![mijn visitekaartje](https://user-images.githubusercontent.com/60745347/106473020-92c89d80-64a3-11eb-9fbc-91461a076d2e.png)
 Bekijk mijn visitekaartje [hier](https://lars-ruijs.github.io/kickoff-2021/index.html).
 
+<br>
+
 ## Bronnen
 
 - [MockAPI docs](https://mockapi.io/docs)
 - [Github logo](https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg)
 - [Fetch code fragment](https://github.com/cmda-minor-web/kickoff-2021/blob/main/docs/js/app.js#L3-L6) van docenten Webdev.
+
+<br>
 
 ## License
 
