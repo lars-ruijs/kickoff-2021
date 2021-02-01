@@ -24,6 +24,7 @@ Ik heb eerst een schets gemaakt van hoe mijn visitekaartje eruit moest gaan zien
 <br>
 
 Vervolgens heb ik een breakdown schets gemaakt die laat zien hoe het visitekaartje technisch is opgebouwd:
+
 ![breakdown schets van visitekaartje](https://user-images.githubusercontent.com/60745347/106475173-f18f1680-64a5-11eb-86fa-1d208553d49d.JPG)
 
 <br>
