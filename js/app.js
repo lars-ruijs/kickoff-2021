@@ -5,7 +5,7 @@ const card  = document.querySelector("section.card");
 
 
 // GET request
-const teams = fetch(`${url}/squads/2/teams/6/members/13`)
+const teams = fetch(`${url}/squads/2/teams/6/members/40`)
                 .then(response => response.json())
                 .then(data => {
                     console.log('fetch', data);
@@ -68,9 +68,17 @@ async function makeCard() {
 
 makeCard();
 
-// // PUT request to modify data
+// PUT request to modify data
 // const putData = {
-//     githubHandle:"https://github.com/lars-ruijs"
+//     name:"Lars",
+//     surname:"Ruijs",
+//     mugshot:"https://d33wubrfki0l68.cloudfront.net/b7ab864676f5cfc64639d79b236e01f1cf10fbde/7425b/images/ditbenik.png",
+//     githubHandle:"https://github.com/lars-ruijs",
+//     other: {
+//         sport:"Fitness",
+//         muziek:"EDM",
+//         werkplek:"Thuis"
+//     }
 // }
 
 // async function postData(url = '', data = {}) {
@@ -84,7 +92,7 @@ makeCard();
 //     return response.json();
 // }
   
-// postData(`${url}/squads/2/teams/6/members/13`, putData)
+// postData(`${url}/squads/2/teams/6/members/40`, putData)
 //     .then(data => {
 //         console.log('put', data);
 //     });
